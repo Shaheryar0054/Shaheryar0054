@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Wordpress developer](https://deshole.com/?v=a7be1bf8ea66)
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Full-stack development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **sharyar0310@gmail.com**
 
