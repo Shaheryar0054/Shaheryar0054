@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaheryar Abid</h1>
 <h3 align="center">A passionate about Learning new technologies</h3>
 
-- 😀 I'm a self-taught programmer from Pakistan.
+- 😀 I'm currently working at [DeShole](https://www.deshole.com/) as an webdeveloper.
 - 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
 - 🌍 I'm currently collaborating with other devs from all over the world.
 - 🔭 I'm always looking for new ways to challenge myself and my creativity.
@@ -29,5 +29,15 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></p>
  
+ ## 🏆 GitHub Trophies 
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shaheryar0054&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
 
 
+## ⚡ GitHub Stats
+
+
+
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaheryar0054&theme=2077) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=Shaheryar0054&show_icons=true&locale=en&layout=compact&theme=radical) |
+|---|---|
+| ![stats](https://github-readme-stats.vercel.app/api?username=Shaheryar0054&show_icons=true&theme=radical)   |   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaheryar0054&theme=radical) |
