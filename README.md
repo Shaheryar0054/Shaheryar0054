@@ -2,7 +2,7 @@
 <h3 align="center">A passionate about Learning new technologies</h3>
 
 - 😀 I'm currently working at [DeShole](https://www.deshole.com/) as an webdeveloper.
-- 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
+- 👨‍🚀 I have learn the full-stack development from [Microverse](https://github.com/microverseinc).
 - 🌍 I'm currently collaborating with other devs from all over the world.
 - 🔭 I'm always looking for new ways to challenge myself and my creativity.
 - 🧩 I love solving puzzles and working with algorithms.
